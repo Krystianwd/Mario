@@ -1,0 +1,16 @@
+Ściana: 0,0,0
+Gracz: 0,0,255
+ScianaDirt: 255,0,0
+Gwiazda: 0,255,0
+Gooma: 255,255,0
+BlokWzmocnienia(Kwiatek): 255,170,0
+BlokWzmocnienia(Grzyb): 255,170,170
+BlokWzmocnienia(Grzyb_życie):255,170,240
+BlokWzmocnienia(Gwiazda)::255,160,120
+Rura(Dół): 0,126,0
+Rura(Góra): 0,128,0
+Rura(Roślina): 128,126,0
+Moneta: 255,255,128
+Boss: 255,0,255
+Flaga: 128,0,255
+ 
